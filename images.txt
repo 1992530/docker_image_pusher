@@ -10,6 +10,4 @@ dingdangdog/cashbook
 dullage/flatnotes
 nriver/trilium-cn
 antonyleons/ward
-dpanel/dpanel
-chaunceyxie/docker.ui
-portainer/portainer
+lllllllillllllillll/dweebui
