@@ -11,3 +11,4 @@ dullage/flatnotes
 nriver/trilium-cn
 antonyleons/ward
 dpanel/dpanel
+chaunceyxie/docker.ui
