@@ -12,3 +12,4 @@ nriver/trilium-cn
 antonyleons/ward
 dpanel/dpanel
 chaunceyxie/docker.ui
+portainer/portainer
