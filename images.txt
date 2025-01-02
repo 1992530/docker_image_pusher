@@ -11,3 +11,4 @@ dullage/flatnotes
 nriver/trilium-cn
 antonyleons/ward
 portainer/portainer
+louislam/dockge
