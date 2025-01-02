@@ -12,3 +12,4 @@ nriver/trilium-cn
 antonyleons/ward
 portainer/portainer
 louislam/dockge
+donknap/dpanel
