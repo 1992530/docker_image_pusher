@@ -15,3 +15,4 @@ louislam/dockge
 donknap/dpanel
 6053537/portainer
 wbsu2003/cook
+jolnccc/ubuntu-desktop
