@@ -4,15 +4,15 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-johngong/calibre-web
-bellamy/wallos
-dingdangdog/cashbook
-dullage/flatnotes
-nriver/trilium-cn
-antonyleons/ward
+johngong/calibre-web        #calire书库
+bellamy/wallos              #订阅提醒
+dingdangdog/cashbook        #记账本
+dullage/flatnotes           #便签本
+nriver/trilium-cn           #多端同步笔记软件
+antonyleons/ward            #系统监视
 portainer/portainer
 louislam/dockge
 donknap/dpanel
-6053537/portainer
-wbsu2003/cook
-linzeyi/hivision_idphotos
+6053537/portainer           #porCE中文管理面板
+wbsu2003/cook               #菜谱
+linzeyi/hivision_idphotos   #证件照生成应用
