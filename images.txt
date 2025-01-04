@@ -25,3 +25,4 @@ wbsu2003/cook
 #菜谱
 linzeyi/hivision_idphotos   
 #证件照生成应用
+kasmweb/firefox
