@@ -27,3 +27,5 @@ linzeyi/hivision_idphotos
 #证件照生成应用
 linuxserver/chromium
 vaultwarden/server
+tailscale/tailscale
+#内网穿透工具
