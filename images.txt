@@ -29,3 +29,5 @@ linuxserver/chromium
 vaultwarden/server
 tailscale/tailscale
 #内网穿透工具
+unilei/aipan-netdisk-search-simple
+#爱盼搜索
