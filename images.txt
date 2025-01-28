@@ -33,5 +33,5 @@ unilei/aipan-netdisk-search-simple
 #爱盼搜索
 makedie/noname_kill
 #无名杀
-gotson/komga
-#漫画软件
+searxng/searxng
+#搜索引擎
