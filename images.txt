@@ -6,7 +6,7 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 johngong/calibre-web        
 #calire书库
-bellamy/wallos              
+bellamy/wallos:2.45.1             
 #订阅提醒
 dingdangdog/cashbook:3.0.6       
 #记账本
@@ -21,10 +21,9 @@ portainer/portainer
 #porCE中文管理面板
 wbsu2003/cook               
 #菜谱
-linzeyi/hivision_idphotos   
+linzeyi/hivision_idphotos:v1.3.0   
 #证件照生成应用
 linuxserver/chromium
-vaultwarden/server
 tailscale/tailscale
 #内网穿透工具
 unilei/aipan-netdisk-search-simple
