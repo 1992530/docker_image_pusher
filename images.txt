@@ -8,8 +8,6 @@ johngong/calibre-web
 #calire书库
 bellamy/wallos:2.45.1             
 #订阅提醒
-dingdangdog/cashbook:3.0.6       
-#记账本
 dullage/flatnotes           
 #便签本
 nriver/trilium-cn           
@@ -32,3 +30,11 @@ makedie/noname_kill
 #无名杀
 searxng/searxng
 #搜索引擎
+morrisjobke/webdav
+#webdav
+neosmemo/memos:0.13.0
+#笔记同步软件
+moneynote-all:latest
+#记账本
+nextcloud
+#网盘
