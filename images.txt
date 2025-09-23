@@ -34,7 +34,7 @@ morrisjobke/webdav
 #webdav
 neosmemo/memos:0.13.0
 #笔记同步软件
-moneynote-all:latest
+#moneynote-all:latest
 #记账本
 nextcloud
 #网盘
