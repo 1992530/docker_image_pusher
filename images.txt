@@ -38,4 +38,4 @@ neosmemo/memos:0.13.0
 #记账本
 nextcloud
 #网盘
-tsidp
+tailscale/tsidp
